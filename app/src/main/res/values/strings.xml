@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="mi_delete_title">Удалить</string>
+    <string name="mi_save_title">Сохранить</string>
+    <string name="dont_delete_text">Не удалять текст</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
